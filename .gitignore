@@ -1,3 +1,5 @@
 .venv/
+*.joblib
+*.jpg
 .vscode/
 input/
